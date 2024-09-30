@@ -5,7 +5,7 @@ What has been developed:
 - added multiple animated messages with expire timer
 - added a separate thread event loop for messages
 
-### How does it look
+### How it looks
 ![Demostration video](./screenshots/example.gif?raw=true)  
 The example application demonstrates popup messages
 
@@ -28,18 +28,18 @@ Qt5 needs to be installed
 
 Windows
 ```
->mkdir build
->cd build
->cmake ..
->cmake --build .
+mkdir build
+cd build
+cmake ..
+cmake --build .
 ```
 
 Linux
 ```
->mkdir build
->cd build
->cmake ..
->make
+mkdir build
+cd build
+cmake ..
+make
 ```
 ### Platforms supported
 You can use it on Windows and Linux
