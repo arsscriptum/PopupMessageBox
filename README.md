@@ -1,4 +1,5 @@
 ### PopupMessageBox
+
 Simple cross-platform Qt popup messagebox based on Evileg PopUp notification, link: https://evileg.com/en/post/146/  
 
 What has been developed:
@@ -43,3 +44,6 @@ make
 ```
 ### Platforms supported
 You can use it on Windows and Linux
+
+
+In Progres
